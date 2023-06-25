@@ -1,2 +1,2 @@
 # Smile-detection
-A smile detection with SVM with extracting hog and lbp feature
+A smile detection with SVM by extracting hog and lbp features
